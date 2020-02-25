@@ -1,0 +1,5 @@
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 322\Exercises\EX 7B\MilitaryClasses\bin\Debug\MilitaryClasses.dll
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 322\Exercises\EX 7B\MilitaryClasses\bin\Debug\MilitaryClasses.pdb
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 322\Exercises\EX 7B\MilitaryClasses\obj\Debug\MilitaryClasses.csprojAssemblyReference.cache
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 322\Exercises\EX 7B\MilitaryClasses\obj\Debug\MilitaryClasses.dll
+C:\Users\imodc\OneDrive\Desktop\Microsoft Software and Systems Academy\ISTA 322\Exercises\EX 7B\MilitaryClasses\obj\Debug\MilitaryClasses.pdb
